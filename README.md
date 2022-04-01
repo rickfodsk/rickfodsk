@@ -6,7 +6,7 @@
 </div>
   <div align="right">
 <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rickfodsk&layout=compact&langs_count=7&theme=outrun"/>
-  <div>
+  </div>
 
 <div align="leftr">
   <a href="https://www.instagram.com/harrysilva._/?hl=pt-br" target="blank" ir para instragram>
