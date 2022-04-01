@@ -10,8 +10,7 @@
 
   
  <h1>Linguagens em Utilização</h1>
- <img src=http://portalwebdesigner.com/wp-content/uploads/2016/05/Simbolo-Linguagem-JavaScript.png> </img>
- <img style="width:210px"; src=https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png></img> 
- <img style="width:430px"  src=https://www.agentur-kreativdenker.de/wp-content/uploads/2020/10/was-ist-css3.jpg
-    
+ <img style="width:75px"src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4D-YHaNfCpYArCLz6rBu_W74dCwhReXQfIy_PI6y3NSq9r6x4FRkAFQaW90pxGyVA2fU&usqp=CAU> </img>
+ <img style="width:70px"; src=https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png></img> 
+ <img style="width:70px";  src=https://www.casamidia.com.br/wp-content/uploads/2016/03/css-logo.png
 </body>
