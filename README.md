@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <body>
-<a href="https://www.instagram.com/harrysilva._/?hl=pt-br">
+<a href="https://www.instagram.com/harrysilva._/?hl=pt-br"  target="blank">
 <img style="width:80px" src="https://logodownload.org/wp-content/uploads/2017/04/instagram-logo-2.png" ></img>
 </a>
 </body>
