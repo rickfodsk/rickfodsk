@@ -1,4 +1,7 @@
-### welcome! I'm Henrique moura ❤
+### welcome! 
+<p>I'm Henrique moura  </p> <a href="https://www.instagram.com/harrysilva._/?hl=pt-br" target="blank" ir para instragram>
+  <img style="width:60px" src="https://logodownload.org/wp-content/uploads/2017/04/instagram-logo-2.png" ></img></a> <a href=https://www.facebook.com/henrique.moura.1420><img style="width:150px" src="https://www.internetmatters.org/wp-content/uploads/2021/03/facebook-logo-new-600x315.png"> </img> 
+
 <div align="left">
 <a href="https://github.com/rickfodsk">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rickfodsk&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
@@ -11,6 +14,5 @@
  <img style="width:70px";  src=https://www.casamidia.com.br/wp-content/uploads/2016/03/css-logo.png
 </div>
 <div align="right">
- <a href="https://www.instagram.com/harrysilva._/?hl=pt-br" target="blank" ir para instragram>
-  <img style="width:60px" src="https://logodownload.org/wp-content/uploads/2017/04/instagram-logo-2.png" ></img></a> <a href=https://www.facebook.com/henrique.moura.1420><img style="width:150px" src="https://www.internetmatters.org/wp-content/uploads/2021/03/facebook-logo-new-600x315.png"> </img><img style="width:150px" src=https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/5eeea355389655.59822ff824b72.gif></img>
+  </img><img style="width:150px" src=https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/5eeea355389655.59822ff824b72.gif></img>
 </div>
